@@ -1,4 +1,4 @@
-# Translation Generators 🌐
+# Localization Generators 🌐
 
 Easily convert your .arb files to .xlsx and vice versa with these two Python scripts.
 
